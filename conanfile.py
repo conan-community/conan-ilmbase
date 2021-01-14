@@ -17,6 +17,7 @@ class IlmBaseConan(ConanFile):
     default_options = "shared=False", "namespace_versioning=True", "fPIC=True"
     generators = "cmake"
     exports = "FindIlmBase.cmake"
+    deprecated = True
 
     def config_options(self):
         if self.settings.os == "Windows":

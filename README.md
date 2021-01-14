@@ -1,3 +1,9 @@
+## Package Deprecation Notice
+
+This project will no longer be maintained or supported.
+
+If you want to request a new version for this project, open an issue for [Conan Center Index](https://github.com/conan-io/conan-center-index).
+
 [![Download](https://api.bintray.com/packages/conan-community/conan/ilmbase%3Aconan/images/download.svg) ](https://bintray.com/conan-community/conan/ilmbase%3Aconan/_latestVersion)
 [![Build Status Travis](https://travis-ci.org/conan-community/conan-ilmbase.svg)](https://travis-ci.org/conan-community/conan-ilmbase)
 [![Build Status AppVeyor](https://ci.appveyor.com/api/projects/status/github/conan-community/conan-ilmbase?svg=true)](https://ci.appveyor.com/project/ConanCIintegration/conan-ilmbase)
